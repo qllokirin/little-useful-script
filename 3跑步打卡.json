@@ -1,0 +1,27 @@
+{
+    "coordinates": [
+        {"longitude": 108.775273, "latitude": 34.042994},
+        {"longitude": 108.775443, "latitude": 34.043024},
+        {"longitude": 108.775551, "latitude": 34.043121},
+        {"longitude": 108.775794, "latitude": 34.043147},
+        {"longitude": 108.776014, "latitude": 34.043114},
+        {"longitude": 108.776162, "latitude": 34.042994},
+        {"longitude": 108.776225, "latitude": 34.042841},
+        {"longitude": 108.776212, "latitude": 34.042628},
+        {"longitude": 108.776207, "latitude": 34.042426},
+        {"longitude": 108.776207, "latitude": 34.042224},
+        {"longitude": 108.776203, "latitude": 34.042033},
+        {"longitude": 108.776185, "latitude": 34.041854},
+        {"longitude": 108.776045, "latitude": 34.041723},
+        {"longitude": 108.775866, "latitude": 34.041652},
+        {"longitude": 108.775641, "latitude": 34.041648},
+        {"longitude": 108.775394, "latitude": 34.041712},
+        {"longitude": 108.775255, "latitude": 34.041842},
+        {"longitude": 108.775232, "latitude": 34.042074},
+        {"longitude": 108.775255, "latitude": 34.042287},
+        {"longitude": 108.775250, "latitude": 34.042497},
+        {"longitude": 108.775255, "latitude": 34.042736},
+        {"longitude": 108.775273, "latitude": 34.042960}
+
+    ]
+}
