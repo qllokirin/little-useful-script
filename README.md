@@ -21,3 +21,10 @@
 ### 5tmux.sh
 
 用tmux把终端划分为四个小窗，最有用的一集
+
+tmux设置鼠标开启
+
+```
+echo "set-option -g mouse on" >> ~/.tmux.conf
+tmux source-file ~/.tmux.conf
+```
